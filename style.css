@@ -142,6 +142,10 @@ a {
   padding: 1rem;
 }
 
+.main-footer a:hover {
+  color: #b6ff00;
+}
+
 .brand-link {
   color: rgba(255, 255, 255, 0.8);
   border-bottom: 1px solid #4b545c;
